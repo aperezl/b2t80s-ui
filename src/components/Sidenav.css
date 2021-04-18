@@ -1,0 +1,5 @@
+.sidenav {
+  background-color: #111;
+  overflow-x: hidden;
+  flex-basis: 600px;
+}

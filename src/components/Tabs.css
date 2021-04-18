@@ -1,0 +1,7 @@
+.tabs {
+  width: 100%;
+  padding-top: 10px;
+  border-bottom: 3px solid #ccc;
+  font-weight: bold;
+  display: flex;
+}

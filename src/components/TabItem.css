@@ -1,0 +1,10 @@
+.tab-item {
+  padding-left: 4px;
+  padding-right: 4px;
+  margin-bottom: -2px;
+}
+
+.tab-item.active {
+  border-bottom: 3px solid #034f84;
+  color: #034f84;
+}
